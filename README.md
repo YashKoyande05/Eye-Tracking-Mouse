@@ -4,7 +4,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Face%20Mesh-orange.svg)
 
-Eye-Tracking-Mouse is a hands-free, computer vision-based mouse controller. It utilizes your webcam to map facial landmarks in real-time, allowing you to control your computer's cursor with your eyes, trigger clicks through intentional blinks, and scroll using mouth and nose gestures. 
+Eye-Tracking-Mouse is a hands free, computer vision-based mouse controller. It utilizes your webcam to map facial landmarks in realtime, allowing you to control your computer's cursor with your eyes, trigger clicks through intentional blinks, and scroll using mouth and nose gestures. 
 
 ## ✨ Features
 
