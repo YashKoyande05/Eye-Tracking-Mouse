@@ -44,15 +44,15 @@ Ensure you have Python 3.8 or higher installed on your system. You will also nee
 ## 🎮 Usage Guide
 Upon launching the script, the system will initiate a brief setup and calibration phase:
 
-Calibration: Look directly at the green circles as they appear on different parts of your screen. Keep your head centered.
+**Calibration:** Look directly at the green circles as they appear on different parts of your screen. Keep your head centered.
 
-Cursor Movement: Once calibrated, look around your screen to move the cursor.
+**Cursor Movement:** Once calibrated, look around your screen to move the cursor.
 
-Clicking: * Hold your eyes closed for 0.3 seconds to trigger a click.
+**Clicking:**  Hold your eyes closed for 0.3 seconds to trigger a click.
 
 The system alternates between Left Click and Right Click upon successive intentional blinks.
 
-Scrolling:
+**Scrolling:**
 
 Open your mouth slightly to toggle "Scroll Mode".
 
@@ -60,10 +60,10 @@ Move your nose up or down to scroll the active window.
 
 Close your mouth or wait 3.0 seconds to exit scroll mode.
 
-Typing: Simply start typing on your keyboard. Tracking will pause automatically and resume 3.0 seconds after your last keystroke.
+**Typing:** Simply start typing on your keyboard. Tracking will pause automatically and resume 3.0 seconds after your last keystroke.
 
 ## 🛑 Exiting the Program
-Press the ESC key while the OpenCV window is active to safely release the camera and terminate the script.    
+**Press the ESC key while the OpenCV window is active to safely release the camera and terminate the script.**    
 
 ## ⚠️ Note :
 You may need 60fps camera for smooth experience.Also, If your setup have multiple cameras then please set the correct CAMERA_INDEX number.(by default=0)
