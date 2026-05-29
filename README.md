@@ -22,23 +22,23 @@ Ensure you have Python 3.8 or higher installed on your system. You will also nee
 
 1. **Clone the repository--->**
 
-  <u>In vscode-terminal/bash:</u>
+  <ins>In vscode-terminal/bash:</ins>
 
-   git clone [https://github.com/frakxzo/Eye-Tracking-Mouse.git](https://github.com/frakxzo/Eye-Tracking-Mouse.git)
+   ***git clone [https://github.com/frakxzo/Eye-Tracking-Mouse.git](https://github.com/frakxzo/Eye-Tracking-Mouse.git)***
 
-   cd Eye-Tracking-Mouse
+   ***cd Eye-Tracking-Mouse***
 
 2. **Install the required dependencies--->**
 
-  <u>It is recommended to use a virtual environment.</u>
+  <ins>It is recommended to use a virtual environment.</ins>
 
-   pip install -r requirements.txt
+   ***pip install -r requirements.txt***
 
 3. **Run the application--->**
 
-   <u>Terminal:</u>
+   <ins>Terminal:</ins>
 
-   python eyetrackingv7.py
+   ***python eyetrackingv7.py***
 
 
 ## 🎮 Usage Guide
